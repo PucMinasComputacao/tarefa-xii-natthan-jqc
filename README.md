@@ -8,14 +8,13 @@ IMPORTANTE: Assim como informado anteriormente, capriche na etapa pois você vai
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Nathan Junquer de Almeida Castro
+- Matricula: 915378
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![Card de produtos](public/prints/cardprodutos.PNG)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+![Tela de detalhes](public/prints/details.PNG)
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
-
+![Console](public/prints/console.PNG)
